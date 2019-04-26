@@ -1,1 +1,1 @@
-# Materialized-Views-with-CosmosDB-Change-Feeds
+# Materialized Views with Cosmos DB Change Feeds
