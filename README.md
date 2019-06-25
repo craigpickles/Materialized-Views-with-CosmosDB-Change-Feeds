@@ -1,5 +1,5 @@
 # Materialized Views with Cosmos DB Change Feeds
-An example showing how materialized view can be kept updated in near-real time in a serverless environment using:
+An example showing how a materialized view can be kept updated in near-real time in a serverless environment using:
 * Azure Function
 * Cosmos DB
 
