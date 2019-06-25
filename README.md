@@ -4,4 +4,4 @@ An example showing how a materialized view can be kept updated in near-real time
 * Cosmos DB
 
 SampleApp.DeviceSimulator inserts two types of data into ComsosDB.  
-SampleApp.Functions processes the change feed received from CosmosDB to update a different view stored in CosmosDB.
+SampleApp.Functions processes the change feed received from CosmosDB to update the materialized view.
